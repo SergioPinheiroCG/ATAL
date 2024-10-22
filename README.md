@@ -1,6 +1,6 @@
 # Aplicar Algoritmos de Apoio à Pesquisa Operacional
 
-Este repositório contém as atividades desenvolvidas durante a disciplina **Aplicar Algoritmos de Apoio à Pesquisa Operacional**, ministrada pelo professor **Wesley Gonzaga**. A disciplina faz parte do curso de [inserir curso] e abrange a implementação de algoritmos utilizados em pesquisa operacional para resolver problemas complexos de otimização.
+Este repositório contém as atividades desenvolvidas durante a disciplina **Aplicar Algoritmos de Apoio à Pesquisa Operacional**, ministrada pelo professor **Wesley Gonzaga**. A disciplina faz parte do curso de Sistemas da Informação - da Unifacisa e abrange a implementação de algoritmos utilizados em pesquisa operacional para resolver problemas complexos de otimização.
 
 ## Estrutura do Repositório
 
