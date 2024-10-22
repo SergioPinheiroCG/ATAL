@@ -14,7 +14,7 @@ As atividades estarão organizadas por pastas, de acordo com os temas abordados 
 ## Tecnologias Utilizadas
 
 - **Java**
-- **Eclipse IDE** 
+- **Eclipse IDE 2024-06** 
 
 ## Como Executar
 
