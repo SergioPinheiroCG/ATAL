@@ -55,5 +55,5 @@ As atividades estarão organizadas em pastas, de acordo com os temas abordados a
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/repositorio.git
+   git clone https://github.com/SergioPinheiroCG/ATAL.git
 
