@@ -7,7 +7,13 @@ Este repositório contém as atividades desenvolvidas durante a disciplina **Apl
 As atividades estarão organizadas por pastas, de acordo com os temas abordados ao longo da disciplina. Cada atividade terá uma breve explicação e a solução implementada em Java.
 
 ### Diretórios:
-- **atividade-1/**: [Descrição breve da atividade]
+- **atividade-1/**: Escolha uma das estruturas abaixo e desenvolva sua implementação com base nas regras da estrutura escolhida.
+
+Listas
+Filas
+Pilhas
+Deques
+
 - **atividade-2/**: [Descrição breve da atividade]
 - **...**
 
