@@ -7,9 +7,19 @@ Este repositório contém as atividades desenvolvidas durante a disciplina **Apl
 As atividades estarão organizadas por pastas, de acordo com os temas abordados ao longo da disciplina. Cada atividade terá uma breve explicação e a solução implementada em Java.
 
 ### Diretórios:
-- **atividade-1/**: Escolha uma das estruturas abaixo e desenvolva sua implementação com base nas regras da estrutura escolhida.
+- **atividade-1/**: Atividade 1
+Botando em prática a construção de uma estrutura de dados
+Descrição
+Você foi desafiado para implementar uma estrutura de dados do zero.
 
-Listas / Filas / Pilhas / Deques
+O que deve ser feito
+Questão 1
+Escolha uma das estruturas abaixo e desenvolva sua implementação com base nas regras da estrutura escolhida.
+
+Listas
+Filas
+Pilhas
+Deques
 
 - **atividade-2/**: [Atividade 2
 Pensando em qual a melhor estrutura de dados a ser utilizada
