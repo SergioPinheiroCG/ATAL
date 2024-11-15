@@ -63,7 +63,7 @@ As atividades estarão organizadas em pastas, de acordo com os temas abordados a
     - Inserir um novo valor na árvore.
     - Expandir a matriz quando não houver espaço disponível.
     - Exibir a árvore no console, indicando o índice, valor, e os filhos esquerdo e direito.  
-
+---
 
 ## 🛠 Tecnologias Utilizadas
 
