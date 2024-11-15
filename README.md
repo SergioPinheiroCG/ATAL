@@ -44,10 +44,32 @@ As atividades estarão organizadas em pastas, de acordo com os temas abordados a
 
 ---
 
+- **atividade-3/**: *Explorando Árvores Binárias em Matrizes*  
+  **Descrição**  
+  Você foi desafiado a implementar uma árvore binária utilizando uma matriz 2D para simular os nós da árvore, sem o uso de estruturas de dados complexas como listas encadeadas.  
+
+  **Regras e funcionalidades:**  
+  - A matriz representa os nós da árvore, onde cada linha é um nó e as colunas armazenam:
+    1. O valor do nó.
+    2. O índice do filho esquerdo.
+    3. O índice do filho direito.
+  - A matriz inicial tem capacidade para 5 nós, mas se expande automaticamente em blocos de 5 quando necessário.  
+  - A árvore deve respeitar a propriedade de ordenação de árvores binárias:
+    - Valores menores vão para o filho esquerdo.
+    - Valores maiores vão para o filho direito.
+
+  **O que deve ser feito?**  
+  - **Questão 1:** Desenvolver as funcionalidades básicas da árvore:
+    - Inserir um novo valor na árvore.
+    - Expandir a matriz quando não houver espaço disponível.
+    - Exibir a árvore no console, indicando o índice, valor, e os filhos esquerdo e direito.  
+
+
 ## 🛠 Tecnologias Utilizadas
 
 - **Java**
 - **Eclipse IDE 2024-06**
+- **VSCODE IDE 1.95.3**
 
 ---
 
