@@ -65,6 +65,50 @@ As atividades estarão organizadas em pastas, de acordo com os temas abordados a
     - Exibir a árvore no console, indicando o índice, valor, e os filhos esquerdo e direito.  
 ---
 
+### **atividade-4/**: *Integração de Árvores Binárias e Grafos para Busca em Largura (BFS)*  
+
+#### **Descrição**  
+Nesta atividade, você implementará um sistema que combina duas importantes estruturas de dados: **árvores binárias** e **grafos**. A árvore binária será utilizada para armazenar e manipular valores numéricos, enquanto o grafo permitirá realizar uma busca em largura (**BFS**) a partir de um vértice inicial.  
+
+#### **Regras e Funcionalidades:**  
+- **Árvore Binária:**  
+  - Deve suportar as operações:
+    1. **Inserção de valores.**
+    2. **Remoção de valores.**
+    3. **Exibição dos valores** em diferentes ordens:
+       - In-Order
+       - Pre-Order
+       - Post-Order  
+
+- **Grafo:**  
+  - Representado como uma **lista de adjacências**.
+  - Suporta as operações:
+    - **Adicionar arestas.**
+    - **Executar uma busca em largura (BFS)** a partir de um vértice inicial.
+  - Validação de entradas:
+    - O vértice inicial deve ser numérico e estar dentro do intervalo válido de vértices.
+
+#### **O que deve ser feito?**  
+- **Questão 1 (Obrigatória):**  
+  Implementar as funcionalidades básicas da **árvore binária** e do **grafo** com as operações especificadas.  
+
+- **Questão 2 (Opcional):**  
+  Adicionar um tratamento de erros robusto:
+  - **Validação de entradas inválidas** para o vértice inicial no grafo (ex.: strings, números fora do intervalo, valores nulos ou vazios).  
+  - Exibição de mensagens de erro claras no console e em janelas de diálogo.
+
+#### **Exemplo de Execução:**  
+1. O sistema exibe um **menu interativo** com as opções para:
+   - Manipular a árvore binária (inserir, remover, exibir valores).
+   - Adicionar arestas ao grafo.
+   - Executar a busca em largura (BFS) no grafo.
+2. Durante a execução da BFS, o usuário deve informar o vértice inicial:
+   - Se válido, o sistema executa a BFS e exibe os resultados.
+   - Se inválido, uma mensagem de erro é exibida orientando o usuário sobre o problema.
+
+---
+
+
 ## 🛠 Tecnologias Utilizadas
 
 - **Java**
